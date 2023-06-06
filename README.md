@@ -2,6 +2,8 @@
 ## [Description](#table-of-content)
 This is the second version of my work porfolio. Instead of building everything without using any packages, this project uses React and Bootstraps. 
 
+[Click here for my website](https://jeansuw.github.io/my-react-portfolio/)
+
 ## Table of content
 * [Description](#description)
 * [Installation](#installation)
@@ -9,14 +11,20 @@ This is the second version of my work porfolio. Instead of building everything w
 * [Credits](#credits)
 
 ## [Installation](#table-of-content)
-This project is build from scratch with the helps of the packages
+This project is build from  with the helps of the packages
 * [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/webpack/#import-bootstrap)
     * ```bash npm install bootstrap --save ```
 * [Bootstrap compiled css](https://getbootstrap.com/docs/4.0/getting-started/webpack/#importing-compiled-css)
 * [Sass](https://www.npmjs.com/package/sass?activeTab=readme)
 * [React](https://www.npmjs.com/package/react)
 
+``` bash
+npm run start // to check your localhost website
+npm run deploy // to deploy your website once you are done with commiting what you have
+```
+
 [Click here for my website](https://jeansuw.github.io/my-react-portfolio/)
+
 
 ## [Usage](#table-of-content)
 

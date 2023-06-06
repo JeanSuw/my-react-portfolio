@@ -6,7 +6,7 @@ import React from 'react';
 function AboutMe () {
     return (
         <section>
-            <div className="card text-info bg-dark mb-3">
+            <div className="card text-info bg-dark mb-3 mx-auto" style={{width: "50rem"}}>
                 <div className="card-title">Hi there! My name is Jean but some people know me as Nichakamol. </div>
                 <div className="card-body">
                     <p className="card-text">
