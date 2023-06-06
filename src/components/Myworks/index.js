@@ -16,7 +16,7 @@ This is not the decorating part.
 import React from 'react';
 import Project from '../Project';
 
-function Portfolio () {
+function Myworks () {
     const projects = [
         {
             projectName: "Bookemon",
@@ -98,4 +98,4 @@ function Portfolio () {
 }
 
 
-export default Portfolio;
+export default Myworks;

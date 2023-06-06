@@ -6,7 +6,6 @@ This is the second version of my work porfolio. Instead of building everything w
 * [Description](#description)
 * [Installation](#installation)
 * [Usage](#usage)
-* [License](#license)
 * [Credits](#credits)
 
 ## [Installation](#table-of-content)
@@ -20,8 +19,7 @@ This project is build from scratch with the helps of the packages
 
 ## [Usage](#table-of-content)
 
-## [License](#table-of-content)
-MIT
+
 ## [Credits](#table-of-content)
 Without these guidances and references, my project would not exist.
 * 20-React/01-Activities/09-Ins_Component

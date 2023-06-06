@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import AboutMe from "./components/Aboutme";
-import Portfolio from './components/Myworks';
+import Myworks from './components/Myworks';
 import Resume from './components/Resume';
 import Form from './components/Contact';
 
@@ -16,7 +16,7 @@ function App(){
             return <AboutMe />
         }
         if (currentTab === "portfolio"){
-            return <Portfolio />
+            return <Myworks />
         }
         if (currentTab === "contact"){
             return <Form />
