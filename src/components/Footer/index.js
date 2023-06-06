@@ -15,7 +15,7 @@ import React from 'react';
 
 function Footer (){
     return (
-        <footer className='footer'>
+        <footer className='footer fixed-bottom'>
             <p>Github: <a href="https://github.com/JeanSuw">github.com/JeanSuw</a></p>
             <p>LinkedIn: <a href="https://www.linkedin.com/in/jeansuwatcharoenchai/">www.linkedin.com/in/jeansuwatcharoenchai</a></p>
         </footer>

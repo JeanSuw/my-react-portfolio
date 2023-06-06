@@ -12,7 +12,7 @@ function Resume () {
             <p>*** Downloadable versions: To be determine ***</p>
 
             <h4>Frontend Proficiencies</h4>
-            <ul className="list-group">
+            <ul className="list-group d-inline-flex">
                 <li className="list-group-item">HTML</li>
                 <li className="list-group-item">CSS: Bootstrap & Bulma</li>
                 <li className="list-group-item">JavaScript</li>
@@ -21,7 +21,7 @@ function Resume () {
             </ul>
 
             <h4>Backend and Database Proficiencies</h4>
-            <ul className="list-group">
+            <ul className="list-group d-inline-flex ">
                 <li className="list-group-item">APIs</li>
                 <li className="list-group-item">NodeJS & ExpressJS</li>
                 <li className="list-group-item">Rest API</li>

@@ -11,6 +11,7 @@ This is the second version of my work porfolio. Instead of building everything w
 ## [Installation](#table-of-content)
 This project is build from scratch with the helps of the packages
 * [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/webpack/#import-bootstrap)
+    * ```bash npm install bootstrap --save ```
 * [Bootstrap compiled css](https://getbootstrap.com/docs/4.0/getting-started/webpack/#importing-compiled-css)
 * [Sass](https://www.npmjs.com/package/sass?activeTab=readme)
 * [React](https://www.npmjs.com/package/react)
@@ -39,3 +40,5 @@ Without these guidances and references, my project would not exist.
 * [React error](https://stackoverflow.com/questions/52525345/react-error-style-prop-value-must-be-an-object-react-style-prop-object)
 * [Redundant alt attribute](https://stackoverflow.com/questions/67448468/redundant-alt-attribute-screen-readers-already-announce-img-tags-as-an-image)
 * [Module sass](https://stackoverflow.com/questions/67161579/cannot-find-module-sass)
+* [Bootstrap mport errors](https://stackoverflow.com/questions/48847885/module-not-found-cant-resolve-bootstrap-dist-css-bootstrap-theme-css-in-c)
+* [Fixed Bottom](https://getbootstrap.com/docs/4.0/utilities/position/#fixed-bottom)

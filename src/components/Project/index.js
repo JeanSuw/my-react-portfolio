@@ -9,7 +9,7 @@ function Project (props){
     return (
         <div className='card center'>
             {props.projects.map((project) => (
-                <div className="card" style={{width: "20rem"}}>
+                <div className="card mx-auto p-2 m-3" style={{width: "30rem"}}>
                     <img className="card-img-top" src={require(`../../assets/images/${project.screenshot}`)} alt="Jean's projects from githubs"/>
                     <div className="card-body">
                         <h5 className="card-title">{project.projectName}</h5>
@@ -18,7 +18,7 @@ function Project (props){
                     <ul className="list-group list-group-flush">
                         <li className="list-group-item">Made by {project.madeby}</li>
                     </ul>
-                    <div className="card-body">
+                    <div className="card-body mx-auto">
                         <a href={project.deployed} className="card-link">Website</a>
                         <a href={project.github} className="card-link">Repository</a>
                     </div>

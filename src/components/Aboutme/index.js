@@ -6,11 +6,11 @@ import React from 'react';
 function AboutMe () {
     return (
         <section>
-            <div className="card text-white bg-dark mb-3">
-                <div className="card-title">About Me</div>
+            <div className="card text-info bg-dark mb-3">
+                <div className="card-title">Hi there! My name is Jean but some people know me as Nichakamol. </div>
                 <div className="card-body">
                     <p className="card-text">
-                        Hi there! My name is Jean but some people know me as Nichakamol. I am a software developer with a passion for gaming and cats. Although I love all kinds of games, my favorites are Bloodborne, Dark Souls 3, Sekiro, and Elden Ring. These games are known for their difficulty, which makes them appealing to me since coding can also be challenging.
+                        I am a software developer with a passion for gaming and cats. Although I love all kinds of games, my favorites are Bloodborne, Dark Souls 3, Sekiro, and Elden Ring. These games are known for their difficulty, which makes them appealing to me since coding can also be challenging.
                     </p>
                     <p className="card-text">
                         I first started coding when I was studying Applied Computing in school. I have been working with Java and Python for three years now and have integrated these languages' concepts into business. Over the years, I have learned that both gaming and coding require persistence and patience. When I first started playing Souls games, I found them challenging and frustrating. But as I continued to play, I realized that the key to success is to keep going, seek assistance, and never give up.
