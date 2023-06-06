@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/my-react-portfolio/static/css/main.f95c5cdc.css",
-    "main.js": "/my-react-portfolio/static/js/main.8e500d93.js",
+    "main.css": "/my-react-portfolio/static/css/main.1fb6ce96.css",
+    "main.js": "/my-react-portfolio/static/js/main.e8ba4ae9.js",
     "static/media/PlentifulPantry.png": "/my-react-portfolio/static/media/PlentifulPantry.81411c6bedcf147777b3.png",
     "static/media/JeanPortfolioOldVers.png": "/my-react-portfolio/static/media/JeanPortfolioOldVers.168d33280bff9173c1c7.png",
     "static/media/Bookemon.png": "/my-react-portfolio/static/media/Bookemon.69f7f2d6034ded6ec936.png",
     "static/media/MadmanPasswordGenerator.png": "/my-react-portfolio/static/media/MadmanPasswordGenerator.4b82ad105aeafa8aa05d.png",
     "static/media/Scribbles.png": "/my-react-portfolio/static/media/Scribbles.a96e4e10055ddf1a1c68.png",
     "index.html": "/my-react-portfolio/index.html",
-    "main.f95c5cdc.css.map": "/my-react-portfolio/static/css/main.f95c5cdc.css.map",
-    "main.8e500d93.js.map": "/my-react-portfolio/static/js/main.8e500d93.js.map"
+    "main.1fb6ce96.css.map": "/my-react-portfolio/static/css/main.1fb6ce96.css.map",
+    "main.e8ba4ae9.js.map": "/my-react-portfolio/static/js/main.e8ba4ae9.js.map"
   },
   "entrypoints": [
-    "static/css/main.f95c5cdc.css",
-    "static/js/main.8e500d93.js"
+    "static/css/main.1fb6ce96.css",
+    "static/js/main.e8ba4ae9.js"
   ]
 }
