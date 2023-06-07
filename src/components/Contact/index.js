@@ -47,31 +47,37 @@ function Form() {
     };
 
     return (
-      <div>
-        <p>Hello {userName}</p>
+      <div className='mx-5 my-5'>
+        <h2>Contact me</h2>
         <form className="form">
+        <label htmlFor="email" className="form-label">Email address</label>
           <input
+            className="form-control form-control-lg"
             value={email}
             name="email"
             onChange={handleInputChange}
             type="email"
-            placeholder="email"
+            placeholder="Enter your email here"
           />
+        <label htmlFor="usernamel" className="form-label">Username</label>
           <input
+            className="form-control form-control-lg"
             value={userName}
             name="userName"
             onChange={handleInputChange}
             type="text"
-            placeholder="username"
+            placeholder="Enter your username here"
           />
+        <label htmlFor="message" className="form-label">Message</label>
           <input
+            className="form-control form-control-lg"
             value={message}
             name="message"
             onChange={handleInputChange}
             type="message"
-            placeholder="Message"
+            placeholder="Leave a message here"
           />
-          <button type="button" onClick={handleFormSubmit}>Submit</button>
+          <button type="button" className="btn btn-primary my-3 p-2" style={{width: "200px"}} onClick={handleFormSubmit}>Submit</button>
         </form>
         {errorMessage && (
           <div>
